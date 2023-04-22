@@ -1,0 +1,53 @@
+*{
+    padding:0;
+    margin:0;
+    border: none;
+}
+#section1{
+    border-bottom:1px solid;
+    #div1{        
+height: 100px;
+width:100px;
+    }
+    .div2{
+        height: 100px;
+        width:100px;
+    }
+    .div3{
+        height: 100px;
+        width:100px;
+    }
+}
+#section2{
+    border-bottom:1px solid;
+    .btn1{
+        height: 50px;
+        width: 150px;
+        background-color: yellow;
+    }
+    .btn2{
+        height: 50px;
+        width: 150px;
+        background-color: pink;
+    }
+    .btn3{
+        height: 50px;
+        width: 150px;
+        background-color: violet;
+    }
+    .div{
+        height: 300px;
+        width: 300px;
+    }
+}
+#section3{
+    #btn{
+        height: 50px;
+        width: 150px;
+    }
+    .div4{
+ height: 100px;
+ width: 100px;   
+
+    }
+}
